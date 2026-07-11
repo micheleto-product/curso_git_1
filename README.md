@@ -48,8 +48,8 @@ Contribuidor principal: https://www.github.com/matheusbattisti
 
 ### Código da função soma
 
-'''javascript
+```javascript
 function soma(a,b) {
     return a + b;
 }
-''' 
+```
