@@ -27,3 +27,11 @@ __Melhoria 1__, _melhoria 2_
     2. Desconto especial para grupos de cliente
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
+
+#### Imagem local
+
+![Logo do Python](img/python.png)
+
+#### Imagem externa
+
+![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
